@@ -6,4 +6,6 @@ Change this mfaka
 
 It actually works, wow. 
 
+git clone https://github.com/AmosNadler/newRepository.git
+
 
